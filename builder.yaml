@@ -1,0 +1,5 @@
+projecttype: "Go"
+buildfile: "main.go"
+outputpath: "/Users/ilarocca/Documents/Artifacts/trufflehog"
+projectpath: "/Users/ilarocca/Documents/Builder-Projects"
+version: 1.1 
